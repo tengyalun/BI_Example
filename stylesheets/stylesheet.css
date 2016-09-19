@@ -218,9 +218,7 @@ hr {
  * Contain overflow in all browsers.
  */
 
-pre {
-  overflow: auto;
-}
+
 
 /**
  * Address odd `em`-unit font size rendering in all browsers.
